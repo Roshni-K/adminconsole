@@ -1,0 +1,45 @@
+body{
+    background-color: #F0F2F5;
+}
+.loginForm{
+    margin-top: 20%;
+    margin-right: 20%;
+    margin-left: 25%;
+    width: 35%;
+}
+.loginformtitle{
+    text-align: center;
+    padding: 15px;
+}
+.header{
+    color: whitesmoke!important;
+    padding: 15px;
+}
+.mainContainer{
+    margin: 5%;
+    display: grid;
+    grid-template-columns: 60% 30%;
+}
+.uploadform{
+    margin:10px
+}
+.uploadpreview{
+    margin:10px;
+}
+.preview{
+
+}
+.listData{
+
+}
+.listContainer{
+    display:grid;
+    grid-template-columns: 70% 25%;
+    column-gap: 2%;
+}
+.mobileView{
+    border: 1px solid black;
+    width: 360px;
+    height: 640px;
+    position: relative;
+}
